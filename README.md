@@ -6,7 +6,7 @@
 <p align="center"><strong>Desarrollador FrontEnd React 💻 </strong></p>
 
 ## Sobre Mi
-Soy un desarrollador FrontEnd con experiencia en ReactJs. Me gusta trabajar con tecnologías modernas para crear soluciones innovadoras. Estoy comprometido con el desarrollo de proyectos colaborativos y me gusta buscar nuevas formas de optimizar los procesos . Mis intereses principales son el desarrollo web , Diseñp UX/UI , styled - components , etc
+Soy un desarrollador FrontEnd con experiencia en ReactJs. Me gusta trabajar con tecnologías modernas para crear soluciones innovadoras. Estoy comprometido con el desarrollo de proyectos colaborativos y me gusta buscar nuevas formas de optimizar los procesos . Mis intereses principales son el desarrollo web , Diseño UX/UI , styled - components , etc
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/-HMTL-red)
