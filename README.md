@@ -1,12 +1,12 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/106263422/223457678-1d7ed567-93f9-4ad4-a307-ab5fe263075c.png" />
-   <h3 align="center"> ¡Hey 👋! Soy Mateo </h3>
+   <h3 align="center"> ¡Hola 👋! Soy Mateo </h3>
 </p>
 
 <p align="center"><strong>Desarrollador FrontEnd React 💻 </strong></p>
 
 ## Sobre Mi
-Soy un desarrollador FrontEnd con experiencia en ReactJs. Me gusta trabajar con tecnologías modernas para crear soluciones innovadoras. Estoy comprometido con el desarrollo de proyectos colaborativos y me gusta buscar nuevas formas de optimizar los procesos . Mis intereses principales son el desarrollo web , Diseño UX/UI , styled - components , etc
+Soy un desarrollador FrontEnd con experiencia en ReactJs. Me gusta trabajar con tecnologías modernas para crear soluciones innovadoras. Estoy comprometido con el desarrollo de proyectos colaborativos y me gusta buscar nuevas formas de optimizar los procesos.
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/-HMTL-red)
