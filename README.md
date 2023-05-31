@@ -26,7 +26,7 @@ Soy un desarrollador FrontEnd con experiencia en ReactJs. Me gusta trabajar con 
 
 - <strong><a href="https://www.coderhouse.com/certificados/61e47306ae271300444b5563">Data Analitycs</a></strong></br>
 - <strong><a href="https://www.freecodecamp.org/fcc08542121-9d78-41c3-bc2f-462160c0f99d">Responsive Web Design</a></strong></br>
-- <strong><a href=https://www.udemy.com/certificate/UC-5a7a8761-dc90-4bbd-a1be-9a8e4d767bde/>React:De cero a experto (Hooks y MERN)</a></strong></br>
+- <strong><a href=https://www.udemy.com/certificate/UC-5a7a8761-dc90-4bbd-a1be-9a8e4d767bde/>React de cero a experto (Hooks y MERN)</a></strong></br>
 - <strong><a href="https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer">Certified Tech Developer</a>  - En Curso -  </strong></br>
 
 ## Donde Encontrarme 
