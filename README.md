@@ -6,8 +6,7 @@
 <p align="center"><strong>Desarrollador Backend Java 💻 </strong></p>
 
 ## Sobre Mi
-I am a Backend developer with experience in Java with SpringBoot. I like to work with modern technologies to create innovative solutions. I am committed to the collaborative development of projects and I like to look for new ways to optimize processes.
-
+Soy un desarrollador Backend con experiencia en Java con SpringBoot . Me gusta trabajar con tecnologías modernas para crear soluciones innovadoras. Estoy comprometido con el desarrollo colaborativo de proyectos y me gusta buscar nuevas formas de optimizar procesos
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/-HMTL-red)
 ![CSS](https://img.shields.io/badge/-CSS-9cf)
