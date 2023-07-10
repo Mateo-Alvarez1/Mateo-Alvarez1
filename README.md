@@ -3,10 +3,10 @@
    <h3 align="center"> ¡Hola 👋! Soy Mateo </h3>
 </p>
 
-<p align="center"><strong>Desarrollador FrontEnd React 💻 </strong></p>
+<p align="center"><strong>Desarrollador Backend Java 💻 </strong></p>
 
 ## Sobre Mi
-Soy un desarrollador FrontEnd con experiencia en ReactJs. Me gusta trabajar con tecnologías modernas para crear soluciones innovadoras. Estoy comprometido con el desarrollo de proyectos colaborativos y me gusta buscar nuevas formas de optimizar los procesos.
+I am a Backend developer with experience in Java with SpringBoot. I like to work with modern technologies to create innovative solutions. I am committed to the collaborative development of projects and I like to look for new ways to optimize processes.
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/-HMTL-red)
@@ -18,6 +18,7 @@ Soy un desarrollador FrontEnd con experiencia en ReactJs. Me gusta trabajar con 
 ![AWS](https://img.shields.io/badge/-AWS-lightgrey)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-brightgreen)
 ![Docker](https://img.shields.io/badge/-DOCKER-informational)
+![Static Badge](https://img.shields.io/badge/SpringBoot-required?color=green)
 </br>
 
 <strong> Y alguna más... </strong>
