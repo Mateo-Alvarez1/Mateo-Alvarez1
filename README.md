@@ -30,7 +30,7 @@ Soy un desarrollador Backend con experiencia en Java con SpringBoot . Me gusta t
 - <strong><a href="https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer">Certified Tech Developer</a>  - En Curso -  </strong></br>
 
 ## Donde Encontrarme 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matualvarez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/matualvarez/](https://www.linkedin.com/in/mateoaalvarez/))
 [![Web](https://img.shields.io/badge/Web-MateoAlvarez.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mateoalvarezportfolio.netlify.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Matuualvarez1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Matuualvarez1)
 <!--
