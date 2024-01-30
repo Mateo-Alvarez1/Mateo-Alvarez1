@@ -3,10 +3,10 @@
    <h3 align="center"> ¡Hola 👋! Soy Mateo </h3>
 </p>
 
-<p align="center"><strong>Desarrollador Backend Java 💻 </strong></p>
+<p align="center"><strong>Desarrollador FullStack 💻 </strong></p>
 
 ## Sobre Mi
-Soy un desarrollador Backend con experiencia en Java con SpringBoot . Me gusta trabajar con tecnologías modernas para crear soluciones innovadoras. Estoy comprometido con el desarrollo colaborativo de proyectos y me gusta buscar nuevas formas de optimizar procesos
+Soy un desarrollador FullStack . Me gusta trabajar con tecnologías modernas para crear soluciones innovadoras. Estoy comprometido con el desarrollo colaborativo de proyectos y me gusta buscar nuevas formas de optimizar procesos
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/-HMTL-red)
 ![CSS](https://img.shields.io/badge/-CSS-9cf)
