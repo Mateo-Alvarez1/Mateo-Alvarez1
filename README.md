@@ -31,7 +31,7 @@ Soy un desarrollador FullStack . Me gusta trabajar con tecnologías modernas par
 
 ## Donde Encontrarme 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateo_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mateoaalvarez/)
-[![Web](https://img.shields.io/badge/Web-MateoAlvarez.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mateoalvarezportfolio.netlify.app/)
+[![Web](https://img.shields.io/badge/Web-MateoAlvarez.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mateoalvarez.netlify.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Matuualvarez1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Matuualvarez1)
 <!--
 **Mateo-Alvarez1/Mateo-Alvarez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
