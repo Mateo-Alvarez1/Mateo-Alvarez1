@@ -6,7 +6,11 @@
 <p align="center"><strong>FullStack Developer💻 </strong></p>
 
 ## About Me
-My approach focuses on identifying challenges and transforming them into opportunities I am driven by curiosity and the desire to find practical and effective solutions that positively impact people and the world around us
+I grew up watching everything around me evolve, seeing how yesterday's solutions became obsolete and how the need to adapt was the only constant.
+
+In this transformation, driven by technology and new ways of creating and solving, I found a learning path.
+
+Software development became my tool to shape a future in motion and expand my growth into new paradigms.
 
 ## Technologies
 ![HTML](https://img.shields.io/badge/-HMTL-red)
