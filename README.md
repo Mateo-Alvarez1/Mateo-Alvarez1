@@ -3,7 +3,7 @@
    <h3 align="center"> ¡Hi👋! Im Mateo </h3>
 </p>
 
-<p align="center"><strong>FullStack Developer💻 </strong></p>
+<p align="center"><strong>Software Developer💻 </strong></p>
 
 ## About Me
 I grew up watching everything around me evolve, seeing how yesterday's solutions became obsolete and how the need to adapt was the only constant.
