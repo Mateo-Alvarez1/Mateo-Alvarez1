@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/106263422/223457678-1d7ed567-93f9-4ad4-a307-ab5fe263075c.png" />
+
    <h3 align="center"> ¡Hi👋! Im Mateo </h3>
 </p>
 
