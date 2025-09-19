@@ -7,7 +7,7 @@ Siempre explorando nuevas formas de crear, automatizar y escalar ideas 🚀.
 ## En qué ando
 - 🔭 Actualmente trabajando en proyectos personales y freelance.  
 - 🌍 Colaborando en comunidades de desarrollo.  
-- 💬 Creando contenido en mi  [TikTok](https://www.tiktok.com/@mateo.dev).  
+- 💬 Creando contenido en mi  [TikTok](https://www.tiktok.com/@matualvarez_).  
 
 ## Lenguajes y Herramientas  
 <p align="left">
