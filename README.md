@@ -7,8 +7,8 @@ Siempre explorando nuevas formas de crear, automatizar y escalar ideas 🚀.
 ## En qué ando
 - 🔭 Actualmente trabajando en proyectos personales y freelance.  
 - 🌍 Colaborando en comunidades de desarrollo.  
-- 💬 Creando contenido en mi  [TikTok](https://www.tiktok.com/@matualvarez_).  
-
+- 💬 Creando contenido en mi  [TikTok](https://www.tiktok.com/@matualvarez_).
+  
 ## Lenguajes y Herramientas  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
@@ -25,3 +25,8 @@ Siempre explorando nuevas formas de crear, automatizar y escalar ideas 🚀.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-Alvarez1&layout=compact&theme=nord" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Mateo-Alvarez1&show_icons=true&theme=nord" height="165"/>
 </p>
+
+## Encontrame Acá
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateoaalvarez)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@matualvarez_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e2e2e2?style=for-the-badge&logo=fire&logoColor=white)](https://mateoalvarez.vercel.app/)
